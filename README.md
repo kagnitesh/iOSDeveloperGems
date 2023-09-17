@@ -1,4 +1,4 @@
-## Navigate
+### Navigate
 
 - [Activity Indicator](#activity-indicator)
 	- [Skeleton](#activity-indicator-skeleton)
